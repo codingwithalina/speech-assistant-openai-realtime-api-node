@@ -1,3 +1,11 @@
+# to start: im terminal: ngrok http 5050
+
+node index.js
+
+twilio dev-phone starten: twilio dev-phone
+
+nummer eingeben, fertig
+
 #  Speech Assistant with Twilio Voice and the OpenAI Realtime API (Node.js)
 
 This application demonstrates how to use Node.js, [Twilio Voice](https://www.twilio.com/docs/voice) and [Media Streams](https://www.twilio.com/docs/voice/media-streams), and [OpenAI's Realtime API](https://platform.openai.com/docs/) to make a phone call to speak with an AI Assistant. 
